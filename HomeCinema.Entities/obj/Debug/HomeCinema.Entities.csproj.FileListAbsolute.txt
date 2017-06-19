@@ -1,0 +1,5 @@
+E:\_Work\_Git Hub\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+E:\_Work\_Git Hub\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+E:\_Work\_Git Hub\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+E:\_Work\_Git Hub\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+E:\_Work\_Git Hub\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
